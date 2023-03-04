@@ -34,3 +34,14 @@ function solution(str){
 ```
 
 ---
+
+### Education
+
+- **University:** Lipetsk State Pedagogical University
+- **Courses:** [The Complete JavaScript + React Course - From Zero to Result](https://www.udemy.com/course/javascript_full/)
+
+---
+
+### English
+
+A2 I study English at the university and on my own
