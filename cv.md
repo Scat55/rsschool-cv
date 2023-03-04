@@ -8,3 +8,29 @@
   - **GitHub:** [Scat55](https://github.com/Scat55)
 
 ---
+
+### About Me
+
+I like to learn something new, especially when it comes to web development.
+I am a sociable person with a good sense of humor. I have a little experience in website layout
+
+---
+
+### Skills
+
+- HTML
+- CSS/SCSS
+- JavaScript (Basic)
+- Git (Basic)
+
+---
+
+### Code Example
+
+```
+function solution(str){
+  return str.split('').reverse().join('');
+}
+```
+
+---
