@@ -1,1 +1,1 @@
-# [rsschool-cv](https://Scat55.github.io/rsschool-cv/cv)
+# [rsschool-cv2](https://Scat55.github.io/rsschool-cv/)
